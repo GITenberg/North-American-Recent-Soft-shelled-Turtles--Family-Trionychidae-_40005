@@ -1,0 +1,25 @@
+_repo: North-American-Recent-Soft-shelled-Turtles--Family-Trionychidae-_40005
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40005-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webb, Robert G.
+    gutenberg_agent_id: '35041'
+    url: http://www.gutenberg.org/2009/agents/35041
+description: ''
+gutenberg_issued: '2012-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40005'
+  lccn: '62063091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Soft-shelled turtles'
+title: North American Recent Soft-Shelled Turtles (Family  Trionychidae)
+url: http://www.gutenberg.org/ebooks/40005
